@@ -1,3 +1,5 @@
+#REPLACED BY MONOREPO & FULL CLIENT PROJECT
+
 # Trojan Finance
 
 An open source interface for Trojan Finance, based in Uniswap Interface. https://github.com/Uniswap/uniswap-interface
